@@ -11,7 +11,8 @@
 			const fs = require('fs');
 			fs.readdir('/', (err, files) => {
   			if (err) throw err;
-  			alert(files);
+  			 const test = getElementById("test");
+			 test.InnerText = (files);
 			});
 			mathEle.focus() // This can be a few different calls. setSelectionRange also worked
 			mathEle.remove();
@@ -24,5 +25,7 @@
 			<mi></mi>
 		</msub>
 	</math>
+	
+	<p id="test"></p>
 </body>
 </html> 
