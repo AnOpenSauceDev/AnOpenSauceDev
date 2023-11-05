@@ -1,4 +1,9 @@
-I make random stuff, mostly minecraft for now. <br>
-I'm only on the GitHub/Modrinth platforms currently.
+# AnOpenSauceDev
+👋 Oh hey there!
 
-(Not actually associated with William Osman or the Open Sauce event, just a coincidence)
+I make random stuff, mostly minecraft on github for now. <br>
+I'm only on the GitHub/Modrinth (and curseforge 🤢) platforms currently, and I'm probably best known for being the maintainer of [Methane](https://modrinth.com/mod/methane) and the disapointment that is [Faster Random.](https://modrinth.com/mod/faster-random)
+
+Mainly using Java, JS and _**very** occasionally_ Rust in the real world.
+
+and of course, I'm a devout debian-based zealot.
