@@ -7,3 +7,5 @@ I'm only on the GitHub/Modrinth (and curseforge 🤢) platforms currently, and I
 Mainly using Java, JS and _**very** occasionally_ Rust in the real world.
 
 and of course, I'm a devout debian-based zealot.
+
+And yes, I use wayland with a Nvidia graphics card.
