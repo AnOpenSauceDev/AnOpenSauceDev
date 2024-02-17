@@ -7,3 +7,5 @@ I'm only on the GitHub/Modrinth (and curseforge 🤢) platforms currently, and I
 Mainly using Java, JS and _**very** occasionally_ Rust in the real world. I also mess around with C# and GDScript/Python for some projects.
 
 Currently learning graphics and shader stuff.
+
+Website (not hosting a website _just_ yet): https://anopensauce.dev
