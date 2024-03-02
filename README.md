@@ -10,4 +10,4 @@ Mainly using Java, JS and _**very** occasionally_ Rust in the real world. I also
 
 Currently learning graphics and shader stuff.
 
-Website (not hosting a website _just_ yet): https://anopensauce.dev
+Website (not hosting at root just yet): https://anopensauce.dev, and hosting Is This Mod Legit at: https://isthismodlegit.anopensauce.dev/
