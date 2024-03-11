@@ -8,6 +8,10 @@ I'm only on the GitHub/Modrinth (and curseforge 🤢) platforms currently, and I
 
 Mainly using Java, JS and _**very** occasionally_ Rust in the real world. I also mess around with C# and GDScript/Python for some projects.
 
-Currently learning graphics and shader stuff.
+Currently learning graphics and shader stuff every now and then.
 
 Website (not hosting at root just yet): https://anopensauce.dev, and hosting Is This Mod Legit at: https://isthismodlegit.anopensauce.dev/
+
+Cloudflare is pretty cool.
+
+I'm not associated in any way with the Open Sauce event (my account was made a **while** before it was created), but Willam Osman is pretty cool.
