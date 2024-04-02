@@ -8,7 +8,7 @@ I'm only on the GitHub/Modrinth (and curseforge 🤢) platforms currently, and I
 
 Mainly using Java, JS and _**very** occasionally_ Rust in the real world. I also mess around with C# and GDScript/Python for some projects.
 
-Currently learning graphics and shader stuff every now and then.
+I plan on replacing all my projects in Godot with Bevy once the engine matures more.
 
 Website (not hosting at root just yet): https://anopensauce.dev, and hosting Is This Mod Legit at: https://isthismodlegit.anopensauce.dev/
 
