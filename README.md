@@ -25,3 +25,5 @@ While I absolutely love Linux, Windows users should not feel a need to switch to
 Website (not hosting at root just yet): https://anopensauce.dev, and hosting Is This Mod Legit at: https://isthismodlegit.anopensauce.dev/
 
 I'm not associated in any way with the **Open Sauce event** (my account was made a **while** before it was created), but Willam Osman is pretty cool.
+
+I don't have much time to work on projects, and the projects I work on are the ones I am the most motivated to work on. If your issue gets buried, I'm sorry. In a few weeks, perhaps I'll be able to work on it.
