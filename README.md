@@ -7,3 +7,4 @@ I'm only present on Modrinth and Curseforge. I don't have any socials (and proba
 
 Another thing of note is that I usually have less than 4 hours of free time to code for my own projects in a week. If it seems like I'm taking a while to work on an issue, I probably haven't had the chance to work on it.
 
+I use Void Linux, but I typically go as bleeding-edge as possible (which probably isn't a good idea).
